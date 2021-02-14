@@ -1,5 +1,3 @@
-# giphy-app
-
 ## Project setup
 ```
 npm install
